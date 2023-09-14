@@ -19,3 +19,5 @@ if amount_stolen == n:
     print(*stolen_money)
 else:
     print(-1)
+
+print("gnfjnfdklgm")
